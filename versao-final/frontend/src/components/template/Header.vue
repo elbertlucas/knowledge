@@ -46,7 +46,7 @@ export default {
 
     .title {
         font-size: 1.2rem;
-        color: #fff;
+        color: #FFF;
         font-weight: 100;
         flex-grow: 1;
         text-align: center;

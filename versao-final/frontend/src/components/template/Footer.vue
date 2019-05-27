@@ -1,6 +1,6 @@
 <template>
     <footer class="footer">
-        <span>Copyright <strong>Cod3r</strong> © 2015-2018</span>
+        <span>Todos os direitos reservados <strong>Elbert Lucas</strong> ©2019</span>
     </footer>
 </template>
 
@@ -19,6 +19,6 @@ export default {
         display: flex;
         align-items: center;
         justify-content: flex-end;
-        padding-right: 10px;
+        padding-right: 15px;
     }
 </style>
